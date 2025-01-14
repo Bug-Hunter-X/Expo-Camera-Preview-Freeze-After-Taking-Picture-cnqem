@@ -1,0 +1,1 @@
+This bug occurs when using the Expo Camera API with custom camera controls.  The problem is that after taking a picture, the camera preview sometimes freezes and becomes unresponsive.  Tapping to refocus or taking another picture doesn't work.  The only solution is to restart the app.
